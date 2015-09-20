@@ -1,6 +1,6 @@
 validation = input("Enter your username: ")
 
-real = "vyns"
+real = "Rey"
 
 def valid(u):
 	if u != real:
